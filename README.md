@@ -4,9 +4,16 @@
 
 > Source of Dataset is Our World in Data
   ,Link - https://ourworldindata.org/covid-deaths
+
+
+
+>SQL - Data Exploration
+
+In this we explored the Covid Data by using SQL Queries and get the Different Visuals of it , Which we can use in Our Dashboard to show the data                 Visually.
+
   
   
-> Power BI Dashboard
+>Power BI Dashboard
 
 
 
